@@ -37,4 +37,4 @@ For example, if an organization owner has given all organization members read pe
 - "[Changing project board visibility](/articles/changing-project-board-visibility)"
 - "[Managing an individual’s access to an organization project board](/articles/managing-an-individual-s-access-to-an-organization-project-board)"
 - "[Managing team access to an organization project board](/articles/managing-team-access-to-an-organization-project-board)"
-- "[Managing access to a project board for organization members](/articles/managing-access-to-a-project-board-for-organization-members)"
+- "[Managing access to a project board for organization members](/articles/managing-access-to-a-project-board-for-organization-mem
